@@ -1,0 +1,14 @@
+com\umg\app\web\ReportServlet.class
+com\umg\app\repo\ProveedorRepository.class
+com\umg\app\web\ClienteServlet.class
+com\umg\app\repo\InMemoryClienteRepository.class
+com\umg\app\service\ClienteService.class
+com\umg\app\service\ProveedorService.class
+com\umg\app\model\Proveedor.class
+com\umg\app\model\Cliente.class
+com\umg\app\repo\InMemoryProveedorRepository.class
+com\umg\app\web\ProveedorServlet.class
+com\umg\app\repo\ClienteRepository.class
+com\umg\app\service\ValidationException.class
+com\umg\app\web\BaseServlet.class
+com\umg\app\service\Validator.class

@@ -1,0 +1,9 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="${pageContext.request.contextPath}/">Clientes&Proveedores</a>
+    <div>
+      <a class="btn btn-outline-light btn-sm" href="${pageContext.request.contextPath}/clientes">Clientes</a>
+      <a class="btn btn-outline-light btn-sm ms-2" href="${pageContext.request.contextPath}/proveedores">Proveedores</a>
+    </div>
+  </div>
+</nav>
