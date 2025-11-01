@@ -7,15 +7,17 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class Conexion {
-    Connection con;
-    String url = "jdbc:mysql://localhost:3306/tienda";
-    String user = "root";
-    String pass = "bryan123";
+    private static Connection con;
+    private static final String url = "jdbc:mysql://localhost:3306/tienda";
+    private static final String user = "root";
+    private static final String pass = "bryan123";
 
-    public Connection getConexion() {
+    public static Connection getConexion() {
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection(url, user, pass);
+            if (con == null || con.isClosed()) {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                con = DriverManager.getConnection(url, user, pass);
+            }
         } catch (Exception e) {
             System.out.println("Error en la conexión: " + e);
         }

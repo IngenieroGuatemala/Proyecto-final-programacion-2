@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/index.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/config/Conexion.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/modelo/Puesto.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/modeloDAO/PuestoDAO.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/controlador/ControladorPuesto.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/listarPuestos.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/agregarPuesto.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/editarPuesto.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/modelo/Menu.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/src/java/modeloDAO/MenuDAO.java</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/clientes.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/empleados.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/marcas.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/proveedores.jsp</file>
+            <file>file:/D:/Imagenes/Final/proyectoprogra/web/vistas/menu.jsp</file>
+        </group>
+    </open-files>
+</project-private>

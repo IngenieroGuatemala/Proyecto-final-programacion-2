@@ -3,6 +3,7 @@
     Created on : 31 oct 2025, 1:56:25
     Author     : Kemberly Donis
 --%>
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 
 <!DOCTYPE html>
 <html lang="es">
